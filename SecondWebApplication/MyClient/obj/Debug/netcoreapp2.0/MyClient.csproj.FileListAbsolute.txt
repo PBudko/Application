@@ -1,0 +1,11 @@
+c:\users\peter\source\repos\MyClient\MyClient\bin\Debug\netcoreapp2.0\MyClient.deps.json
+c:\users\peter\source\repos\MyClient\MyClient\bin\Debug\netcoreapp2.0\MyClient.runtimeconfig.json
+c:\users\peter\source\repos\MyClient\MyClient\bin\Debug\netcoreapp2.0\MyClient.runtimeconfig.dev.json
+c:\users\peter\source\repos\MyClient\MyClient\bin\Debug\netcoreapp2.0\MyClient.dll
+c:\users\peter\source\repos\MyClient\MyClient\obj\Debug\netcoreapp2.0\MyClient.csprojResolveAssemblyReference.cache
+c:\users\peter\source\repos\MyClient\MyClient\obj\Debug\netcoreapp2.0\MyClient.csproj.CoreCompileInputs.cache
+c:\users\peter\source\repos\MyClient\MyClient\obj\Debug\netcoreapp2.0\MyClient.AssemblyInfoInputs.cache
+c:\users\peter\source\repos\MyClient\MyClient\obj\Debug\netcoreapp2.0\MyClient.AssemblyInfo.cs
+c:\users\peter\source\repos\MyClient\MyClient\bin\Debug\netcoreapp2.0\MyClient.pdb
+c:\users\peter\source\repos\MyClient\MyClient\obj\Debug\netcoreapp2.0\MyClient.dll
+c:\users\peter\source\repos\MyClient\MyClient\obj\Debug\netcoreapp2.0\MyClient.pdb

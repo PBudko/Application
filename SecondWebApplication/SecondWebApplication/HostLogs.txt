@@ -1,0 +1,165 @@
+2018-04-20 18:15:20.904 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:53132/api/values  
+2018-04-20 18:15:21.117 +03:00 [INF] Executing action method SecondWebApplication.Controllers.ValuesController.Get (SecondWebApplication) with arguments (null) - ModelState is "Valid"
+2018-04-20 18:15:21.130 +03:00 [INF] Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2018-04-20 18:15:21.187 +03:00 [INF] Executed action SecondWebApplication.Controllers.ValuesController.Get (SecondWebApplication) in 80.1254ms
+2018-04-20 18:15:21.191 +03:00 [INF] Request finished in 306.5188ms 200 application/json; charset=utf-8
+2018-04-20 18:15:28.119 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:53132/api/values application/json; charset=utf-8 25
+2018-04-20 18:15:28.194 +03:00 [INF] Executing action method SecondWebApplication.Controllers.ValuesController.Post (SecondWebApplication) with arguments (["SecondWebApplication.Person"]) - ModelState is "Valid"
+2018-04-20 18:15:28.197 +03:00 [INF] Object is coming Name - Petya, Age - 30
+2018-04-20 18:15:28.314 +03:00 [INF] Connection is created 20.04.2018 18:15:28
+2018-04-20 18:15:28.344 +03:00 [INF] succssesful build sender 20.04.2018 18:15:28
+2018-04-20 18:15:28.353 +03:00 [INF] Send massege from Publisher 20.04.2018 18:15:28
+2018-04-20 18:15:28.353 +03:00 [INF] succssesful send Message from method SendMethod 20.04.2018 18:15:28
+2018-04-20 18:16:40.634 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:53132/api/values application/json; charset=utf-8 25
+2018-04-20 18:16:40.646 +03:00 [INF] Executing action method SecondWebApplication.Controllers.ValuesController.Post (SecondWebApplication) with arguments (["SecondWebApplication.Person"]) - ModelState is "Valid"
+2018-04-20 18:16:40.646 +03:00 [INF] Object is coming Name - Petya, Age - 30
+2018-04-20 18:16:40.660 +03:00 [INF] Connection is created 20.04.2018 18:16:40
+2018-04-20 18:16:40.675 +03:00 [INF] succssesful build sender 20.04.2018 18:16:40
+2018-04-20 18:16:40.676 +03:00 [INF] Send massege from Publisher 20.04.2018 18:16:40
+2018-04-20 18:16:40.676 +03:00 [INF] succssesful send Message from method SendMethod 20.04.2018 18:16:40
+2018-04-20 18:17:01.768 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:53132/api/values application/json; charset=utf-8 25
+2018-04-20 18:17:01.772 +03:00 [INF] Executing action method SecondWebApplication.Controllers.ValuesController.Post (SecondWebApplication) with arguments (["SecondWebApplication.Person"]) - ModelState is "Valid"
+2018-04-20 18:17:01.772 +03:00 [INF] Object is coming Name - Petya, Age - 30
+2018-04-20 18:17:01.789 +03:00 [INF] Connection is created 20.04.2018 18:17:01
+2018-04-20 18:17:01.801 +03:00 [INF] succssesful build sender 20.04.2018 18:17:01
+2018-04-20 18:17:01.801 +03:00 [INF] Send massege from Publisher 20.04.2018 18:17:01
+2018-04-20 18:17:01.801 +03:00 [INF] succssesful send Message from method SendMethod 20.04.2018 18:17:01
+2018-04-20 18:17:42.161 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:53132/api/values application/json; charset=utf-8 25
+2018-04-20 18:17:42.166 +03:00 [INF] Executing action method SecondWebApplication.Controllers.ValuesController.Post (SecondWebApplication) with arguments (["SecondWebApplication.Person"]) - ModelState is "Valid"
+2018-04-20 18:17:42.166 +03:00 [INF] Object is coming Name - Petya, Age - 30
+2018-04-20 18:17:42.200 +03:00 [INF] Connection is created 20.04.2018 18:17:42
+2018-04-20 18:17:42.221 +03:00 [INF] succssesful build sender 20.04.2018 18:17:42
+2018-04-20 18:17:42.221 +03:00 [INF] Send massege from Publisher 20.04.2018 18:17:42
+2018-04-20 18:17:42.221 +03:00 [INF] succssesful send Message from method SendMethod 20.04.2018 18:17:42
+2018-04-20 18:19:44.445 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:53132/api/values  
+2018-04-20 18:19:44.758 +03:00 [INF] Executing action method SecondWebApplication.Controllers.ValuesController.Get (SecondWebApplication) with arguments (null) - ModelState is "Valid"
+2018-04-20 18:19:44.775 +03:00 [INF] Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2018-04-20 18:19:44.860 +03:00 [INF] Executed action SecondWebApplication.Controllers.ValuesController.Get (SecondWebApplication) in 205.9942ms
+2018-04-20 18:19:44.873 +03:00 [INF] Request finished in 434.3396ms 200 application/json; charset=utf-8
+2018-04-20 18:19:44.893 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:53132/favicon.ico  
+2018-04-20 18:19:44.901 +03:00 [INF] Request finished in 7.2452ms 404 
+2018-04-20 18:20:13.644 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:53132/api/values application/json; charset=utf-8 25
+2018-04-20 18:20:13.774 +03:00 [INF] Executing action method SecondWebApplication.Controllers.ValuesController.Post (SecondWebApplication) with arguments (["SecondWebApplication.Person"]) - ModelState is "Valid"
+2018-04-20 18:20:17.308 +03:00 [INF] Object is coming Name - Petya, Age - 30
+2018-04-20 18:20:17.855 +03:00 [INF] Connection is created 20.04.2018 18:20:17
+2018-04-20 18:20:18.180 +03:00 [INF] succssesful build sender 20.04.2018 18:20:18
+2018-04-20 18:20:19.410 +03:00 [INF] Send massege from Publisher 20.04.2018 18:20:19
+2018-04-20 18:20:19.635 +03:00 [INF] succssesful send Message from method SendMethod 20.04.2018 18:20:19
+2018-04-20 18:27:02.506 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:53132/api/values  
+2018-04-20 18:27:02.661 +03:00 [INF] Executing action method SecondWebApplication.Controllers.ValuesController.Get (SecondWebApplication) with arguments (null) - ModelState is "Valid"
+2018-04-20 18:27:02.671 +03:00 [INF] Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2018-04-20 18:27:02.723 +03:00 [INF] Executed action SecondWebApplication.Controllers.ValuesController.Get (SecondWebApplication) in 67.3537ms
+2018-04-20 18:27:02.728 +03:00 [INF] Request finished in 235.7073ms 200 application/json; charset=utf-8
+2018-04-20 18:27:11.275 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:53132/api/values application/json; charset=utf-8 25
+2018-04-20 18:27:11.347 +03:00 [INF] Executing action method SecondWebApplication.Controllers.ValuesController.Post (SecondWebApplication) with arguments (["SecondWebApplication.Person"]) - ModelState is "Valid"
+2018-04-20 18:27:11.350 +03:00 [INF] Object is coming Name - Petya, Age - 30
+2018-04-20 18:27:11.465 +03:00 [INF] Connection is created 20.04.2018 18:27:11
+2018-04-20 18:27:11.512 +03:00 [INF] Send massege from Publisher 20.04.2018 18:27:11
+2018-04-20 18:28:11.731 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:53132/api/values  
+2018-04-20 18:28:12.045 +03:00 [INF] Executing action method SecondWebApplication.Controllers.ValuesController.Get (SecondWebApplication) with arguments (null) - ModelState is "Valid"
+2018-04-20 18:28:12.060 +03:00 [INF] Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2018-04-20 18:28:12.141 +03:00 [INF] Executed action SecondWebApplication.Controllers.ValuesController.Get (SecondWebApplication) in 200.7152ms
+2018-04-20 18:28:12.155 +03:00 [INF] Request finished in 425.9418ms 200 application/json; charset=utf-8
+2018-04-20 18:28:12.175 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:53132/favicon.ico  
+2018-04-20 18:28:12.182 +03:00 [INF] Request finished in 5.6639ms 404 
+2018-04-20 18:28:40.956 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:53132/api/values application/json; charset=utf-8 25
+2018-04-20 18:28:41.077 +03:00 [INF] Executing action method SecondWebApplication.Controllers.ValuesController.Post (SecondWebApplication) with arguments (["SecondWebApplication.Person"]) - ModelState is "Valid"
+2018-04-20 18:28:45.688 +03:00 [INF] Object is coming Name - Petya, Age - 30
+2018-04-20 18:28:49.078 +03:00 [INF] Connection is created 20.04.2018 18:28:48
+2018-04-20 18:29:00.461 +03:00 [INF] Send massege from Publisher 20.04.2018 18:29:00
+2018-04-20 18:31:52.889 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:53132/api/values  
+2018-04-20 18:31:53.062 +03:00 [INF] Executing action method SecondWebApplication.Controllers.ValuesController.Get (SecondWebApplication) with arguments (null) - ModelState is "Valid"
+2018-04-20 18:31:53.073 +03:00 [INF] Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2018-04-20 18:31:53.127 +03:00 [INF] Executed action SecondWebApplication.Controllers.ValuesController.Get (SecondWebApplication) in 74.39500000000001ms
+2018-04-20 18:31:53.131 +03:00 [INF] Request finished in 253.7467ms 200 application/json; charset=utf-8
+2018-04-20 18:32:03.947 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:53132/api/values application/json; charset=utf-8 25
+2018-04-20 18:32:04.018 +03:00 [INF] Executing action method SecondWebApplication.Controllers.ValuesController.Post (SecondWebApplication) with arguments (["SecondWebApplication.Person"]) - ModelState is "Valid"
+2018-04-20 18:32:04.021 +03:00 [INF] Object is coming Name - Petya, Age - 30
+2018-04-20 18:32:04.132 +03:00 [INF] Connection is created 20.04.2018 18:32:04
+2018-04-20 18:32:04.168 +03:00 [INF] Send massege from Publisher 20.04.2018 18:32:04
+2018-04-20 18:33:11.338 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:53132/api/values application/json; charset=utf-8 25
+2018-04-20 18:33:11.351 +03:00 [INF] Executing action method SecondWebApplication.Controllers.ValuesController.Post (SecondWebApplication) with arguments (["SecondWebApplication.Person"]) - ModelState is "Valid"
+2018-04-20 18:33:11.351 +03:00 [INF] Object is coming Name - Petya, Age - 30
+2018-04-20 18:33:11.366 +03:00 [INF] Connection is created 20.04.2018 18:33:11
+2018-04-20 18:33:11.379 +03:00 [INF] Send massege from Publisher 20.04.2018 18:33:11
+2018-04-20 18:34:54.664 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:53132/api/values  
+2018-04-20 18:34:54.821 +03:00 [INF] Executing action method SecondWebApplication.Controllers.ValuesController.Get (SecondWebApplication) with arguments (null) - ModelState is "Valid"
+2018-04-20 18:34:54.831 +03:00 [INF] Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2018-04-20 18:34:54.881 +03:00 [INF] Executed action SecondWebApplication.Controllers.ValuesController.Get (SecondWebApplication) in 67.167200000000008ms
+2018-04-20 18:34:54.888 +03:00 [INF] Request finished in 228.7484ms 200 application/json; charset=utf-8
+2018-04-20 18:34:59.465 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:53132/api/values application/json; charset=utf-8 25
+2018-04-20 18:34:59.538 +03:00 [INF] Executing action method SecondWebApplication.Controllers.ValuesController.Post (SecondWebApplication) with arguments (["SecondWebApplication.Person"]) - ModelState is "Valid"
+2018-04-20 18:34:59.541 +03:00 [INF] Object is coming Name - Petya, Age - 30
+2018-04-20 18:34:59.656 +03:00 [INF] Connection is created 20.04.2018 18:34:59
+2018-04-20 18:34:59.694 +03:00 [INF] Send massege from Publisher 20.04.2018 18:34:59
+2018-04-20 18:42:16.397 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:53132/api/values  
+2018-04-20 18:42:16.544 +03:00 [INF] Executing action method SecondWebApplication.Controllers.ValuesController.Get (SecondWebApplication) with arguments (null) - ModelState is "Valid"
+2018-04-20 18:42:16.556 +03:00 [INF] Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2018-04-20 18:42:16.607 +03:00 [INF] Executed action SecondWebApplication.Controllers.ValuesController.Get (SecondWebApplication) in 68.5989ms
+2018-04-20 18:42:16.612 +03:00 [INF] Request finished in 235.08ms 200 application/json; charset=utf-8
+2018-04-20 18:43:19.400 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:53132/api/values application/json; charset=utf-8 25
+2018-04-20 18:43:19.475 +03:00 [INF] Executing action method SecondWebApplication.Controllers.ValuesController.Post (SecondWebApplication) with arguments (["SecondWebApplication.Person"]) - ModelState is "Valid"
+2018-04-20 18:43:19.478 +03:00 [INF] Object is coming Name - Petya, Age - 30
+2018-04-20 18:43:19.624 +03:00 [ERR] Message is Send - Name: Petya, Age: 30
+2018-04-20 18:43:19.647 +03:00 [ERR] Body Recived responce - Name: Valera, Age: 31
+2018-04-20 18:43:19.647 +03:00 [ERR] Sucsses Recive - Name: Valera, Age: 31
+2018-04-20 18:43:21.625 +03:00 [ERR] Error tomatch Time waiting 20.04.2018 18:43:21
+2018-04-20 18:43:21.627 +03:00 [INF] Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2018-04-20 18:43:21.627 +03:00 [INF] Executed action SecondWebApplication.Controllers.ValuesController.Post (SecondWebApplication) in 2207.722ms
+2018-04-20 18:43:21.630 +03:00 [INF] Request finished in 2230.2137ms 200 text/plain; charset=utf-8
+2018-04-20 18:45:02.663 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:53132/api/values  
+2018-04-20 18:45:02.823 +03:00 [INF] Executing action method SecondWebApplication.Controllers.ValuesController.Get (SecondWebApplication) with arguments (null) - ModelState is "Valid"
+2018-04-20 18:45:02.834 +03:00 [INF] Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2018-04-20 18:45:02.882 +03:00 [INF] Executed action SecondWebApplication.Controllers.ValuesController.Get (SecondWebApplication) in 68.243000000000009ms
+2018-04-20 18:45:02.886 +03:00 [INF] Request finished in 234.4244ms 200 application/json; charset=utf-8
+2018-04-20 18:45:10.912 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:53132/api/values application/json; charset=utf-8 25
+2018-04-20 18:45:10.987 +03:00 [INF] Executing action method SecondWebApplication.Controllers.ValuesController.Post (SecondWebApplication) with arguments (["SecondWebApplication.Person"]) - ModelState is "Valid"
+2018-04-20 18:45:10.990 +03:00 [ERR] Name - Petya, Age - 30
+2018-04-20 18:45:11.145 +03:00 [ERR] Message is Send - Name: Petya, Age: 30
+2018-04-20 18:45:11.167 +03:00 [ERR] Body Recived responce - Name: Valera, Age: 31
+2018-04-20 18:45:11.167 +03:00 [ERR] Sucsses Recive - Name: Valera, Age: 31
+2018-04-20 18:45:13.147 +03:00 [INF] Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2018-04-20 18:45:13.147 +03:00 [INF] Executed action SecondWebApplication.Controllers.ValuesController.Post (SecondWebApplication) in 2216.154ms
+2018-04-20 18:45:13.150 +03:00 [INF] Request finished in 2237.6824ms 200 text/plain; charset=utf-8
+2018-04-20 18:45:49.386 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:53132/api/values  
+2018-04-20 18:45:49.543 +03:00 [INF] Executing action method SecondWebApplication.Controllers.ValuesController.Get (SecondWebApplication) with arguments (null) - ModelState is "Valid"
+2018-04-20 18:45:49.556 +03:00 [INF] Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2018-04-20 18:45:49.608 +03:00 [INF] Executed action SecondWebApplication.Controllers.ValuesController.Get (SecondWebApplication) in 72.30040000000001ms
+2018-04-20 18:45:49.612 +03:00 [INF] Request finished in 233.1922ms 200 application/json; charset=utf-8
+2018-04-20 18:45:53.698 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:53132/api/values application/json; charset=utf-8 25
+2018-04-20 18:45:53.772 +03:00 [INF] Executing action method SecondWebApplication.Controllers.ValuesController.Post (SecondWebApplication) with arguments (["SecondWebApplication.Person"]) - ModelState is "Valid"
+2018-04-20 18:45:53.776 +03:00 [ERR] Name - Petya, Age - 30
+2018-04-20 18:45:53.930 +03:00 [ERR] Message is Send - Name: Petya, Age: 30
+2018-04-20 18:45:53.942 +03:00 [ERR] Body Recived responce - Name: Valera, Age: 31
+2018-04-20 18:45:53.942 +03:00 [ERR] Sucsses Recive - Name: Valera, Age: 31
+2018-04-20 18:45:55.933 +03:00 [INF] Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2018-04-20 18:45:55.933 +03:00 [INF] Executed action SecondWebApplication.Controllers.ValuesController.Post (SecondWebApplication) in 2218.3115000000003ms
+2018-04-20 18:45:55.937 +03:00 [INF] Request finished in 2239.1378ms 200 text/plain; charset=utf-8
+2018-04-20 19:23:40.244 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:53132/api/values  
+2018-04-20 19:23:40.404 +03:00 [INF] Executing action method SecondWebApplication.Controllers.ValuesController.Get (SecondWebApplication) with arguments (null) - ModelState is "Valid"
+2018-04-20 19:23:40.415 +03:00 [INF] Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2018-04-20 19:23:40.471 +03:00 [INF] Executed action SecondWebApplication.Controllers.ValuesController.Get (SecondWebApplication) in 71.5192ms
+2018-04-20 19:23:40.474 +03:00 [INF] Request finished in 242.3979ms 200 application/json; charset=utf-8
+2018-04-20 19:23:51.844 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:53132/api/values application/json; charset=utf-8 25
+2018-04-20 19:23:51.923 +03:00 [INF] Executing action method SecondWebApplication.Controllers.ValuesController.Post (SecondWebApplication) with arguments (["SecondWebApplication.Person"]) - ModelState is "Valid"
+2018-04-20 19:23:52.069 +03:00 [ERR] Message is Send - Name: Petya, Age: 30
+2018-04-20 19:23:52.097 +03:00 [ERR] Body Recived responce - Name: Valera, Age: 31
+2018-04-20 19:23:52.097 +03:00 [ERR] Sucsses Recive - Name: Valera, Age: 31
+2018-04-20 19:23:54.071 +03:00 [INF] Succes build in Post Request 20.04.2018 19:23:54
+2018-04-20 19:23:54.072 +03:00 [INF] Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2018-04-20 19:23:54.072 +03:00 [INF] Executed action SecondWebApplication.Controllers.ValuesController.Post (SecondWebApplication) in 2209.4151ms
+2018-04-20 19:23:54.075 +03:00 [INF] Request finished in 2231.0295ms 200 text/plain; charset=utf-8
+2018-04-20 19:36:05.008 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:53132/api/values  
+2018-04-20 19:36:05.161 +03:00 [INF] Executing action method SecondWebApplication.Controllers.ValuesController.Get (SecondWebApplication) with arguments (null) - ModelState is "Valid"
+2018-04-20 19:36:05.172 +03:00 [INF] Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2018-04-20 19:36:05.218 +03:00 [INF] Executed action SecondWebApplication.Controllers.ValuesController.Get (SecondWebApplication) in 64.5986ms
+2018-04-20 19:36:05.220 +03:00 [INF] Request finished in 229.593ms 200 application/json; charset=utf-8
+2018-04-20 19:36:24.670 +03:00 [INF] Request starting HTTP/1.1 POST http://localhost:53132/api/values application/json; charset=utf-8 25
+2018-04-20 19:36:24.743 +03:00 [INF] Executing action method SecondWebApplication.Controllers.ValuesController.Post (SecondWebApplication) with arguments (["SecondWebApplication.Person"]) - ModelState is "Valid"
+2018-04-20 19:36:24.901 +03:00 [ERR] Message is Send - Name: Petya, Age: 30
+2018-04-20 19:36:24.938 +03:00 [ERR] Body Recived responce - Name: Valera, Age: 31
+2018-04-20 19:36:24.939 +03:00 [ERR] Sucsses Recive - Name: Valera, Age: 31
+2018-04-20 19:36:26.902 +03:00 [INF] Succes build in Post Request 20.04.2018 19:36:26
+2018-04-20 19:36:26.903 +03:00 [INF] Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2018-04-20 19:36:26.904 +03:00 [INF] Executed action SecondWebApplication.Controllers.ValuesController.Post (SecondWebApplication) in 2214.8208ms
+2018-04-20 19:36:26.907 +03:00 [INF] Request finished in 2236.3342ms 200 text/plain; charset=utf-8

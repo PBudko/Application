@@ -1,0 +1,11 @@
+c:\users\peter\source\repos\Worker\Worker\bin\Debug\netcoreapp2.0\Worker.deps.json
+c:\users\peter\source\repos\Worker\Worker\bin\Debug\netcoreapp2.0\Worker.runtimeconfig.json
+c:\users\peter\source\repos\Worker\Worker\bin\Debug\netcoreapp2.0\Worker.runtimeconfig.dev.json
+c:\users\peter\source\repos\Worker\Worker\bin\Debug\netcoreapp2.0\Worker.dll
+c:\users\peter\source\repos\Worker\Worker\obj\Debug\netcoreapp2.0\Worker.csproj.CoreCompileInputs.cache
+c:\users\peter\source\repos\Worker\Worker\obj\Debug\netcoreapp2.0\Worker.AssemblyInfoInputs.cache
+c:\users\peter\source\repos\Worker\Worker\obj\Debug\netcoreapp2.0\Worker.AssemblyInfo.cs
+c:\users\peter\source\repos\Worker\Worker\bin\Debug\netcoreapp2.0\Worker.pdb
+c:\users\peter\source\repos\Worker\Worker\obj\Debug\netcoreapp2.0\Worker.csprojResolveAssemblyReference.cache
+c:\users\peter\source\repos\Worker\Worker\obj\Debug\netcoreapp2.0\Worker.dll
+c:\users\peter\source\repos\Worker\Worker\obj\Debug\netcoreapp2.0\Worker.pdb

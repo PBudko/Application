@@ -1,0 +1,11 @@
+C:\Users\Peter\source\repos\SecondWebApplication\SecondWebApplication\bin\Debug\netcoreapp2.0\SecondWebApplication.deps.json
+C:\Users\Peter\source\repos\SecondWebApplication\SecondWebApplication\bin\Debug\netcoreapp2.0\SecondWebApplication.runtimeconfig.json
+C:\Users\Peter\source\repos\SecondWebApplication\SecondWebApplication\bin\Debug\netcoreapp2.0\SecondWebApplication.runtimeconfig.dev.json
+C:\Users\Peter\source\repos\SecondWebApplication\SecondWebApplication\bin\Debug\netcoreapp2.0\SecondWebApplication.dll
+C:\Users\Peter\source\repos\SecondWebApplication\SecondWebApplication\bin\Debug\netcoreapp2.0\SecondWebApplication.pdb
+C:\Users\Peter\source\repos\SecondWebApplication\SecondWebApplication\obj\Debug\netcoreapp2.0\SecondWebApplication.csprojResolveAssemblyReference.cache
+C:\Users\Peter\source\repos\SecondWebApplication\SecondWebApplication\obj\Debug\netcoreapp2.0\SecondWebApplication.csproj.CoreCompileInputs.cache
+C:\Users\Peter\source\repos\SecondWebApplication\SecondWebApplication\obj\Debug\netcoreapp2.0\SecondWebApplication.AssemblyInfoInputs.cache
+C:\Users\Peter\source\repos\SecondWebApplication\SecondWebApplication\obj\Debug\netcoreapp2.0\SecondWebApplication.AssemblyInfo.cs
+C:\Users\Peter\source\repos\SecondWebApplication\SecondWebApplication\obj\Debug\netcoreapp2.0\SecondWebApplication.dll
+C:\Users\Peter\source\repos\SecondWebApplication\SecondWebApplication\obj\Debug\netcoreapp2.0\SecondWebApplication.pdb

@@ -1,0 +1,25 @@
+{"Timestamp":"2018-04-20T18:15:09.4176640+03:00","Level":"Information","MessageTemplate":"Logger is build 20.04.2018 18:15:09"}
+{"Timestamp":"2018-04-20T18:15:09.5573448+03:00","Level":"Information","MessageTemplate":"Connection is Success Build 20.04.2018 18:15:09"}
+{"Timestamp":"2018-04-20T18:15:09.5650886+03:00","Level":"Information","MessageTemplate":"Connection channel is Success 20.04.2018 18:15:09"}
+{"Timestamp":"2018-04-20T18:15:09.5718415+03:00","Level":"Information","MessageTemplate":"Bind with queue 20.04.2018 18:15:09"}
+{"Timestamp":"2018-04-20T18:15:09.5808573+03:00","Level":"Information","MessageTemplate":"Recived Massege is success 20.04.2018 18:15:09"}
+{"Timestamp":"2018-04-20T18:19:59.1317616+03:00","Level":"Information","MessageTemplate":"Logger is build 20.04.2018 18:19:59"}
+{"Timestamp":"2018-04-20T18:19:59.2806037+03:00","Level":"Information","MessageTemplate":"Connection is Success Build 20.04.2018 18:19:59"}
+{"Timestamp":"2018-04-20T18:19:59.2890630+03:00","Level":"Information","MessageTemplate":"Connection channel is Success 20.04.2018 18:19:59"}
+{"Timestamp":"2018-04-20T18:19:59.2966063+03:00","Level":"Information","MessageTemplate":"Bind with queue 20.04.2018 18:19:59"}
+{"Timestamp":"2018-04-20T18:19:59.3061919+03:00","Level":"Information","MessageTemplate":"Recived Massege is success 20.04.2018 18:19:59"}
+{"Timestamp":"2018-04-20T18:26:55.4039191+03:00","Level":"Information","MessageTemplate":"Logger is build 20.04.2018 18:26:55"}
+{"Timestamp":"2018-04-20T18:26:55.5471064+03:00","Level":"Information","MessageTemplate":"Connection is Success Build 20.04.2018 18:26:55"}
+{"Timestamp":"2018-04-20T18:26:55.5548588+03:00","Level":"Information","MessageTemplate":"Connection channel is Success 20.04.2018 18:26:55"}
+{"Timestamp":"2018-04-20T18:26:55.5620438+03:00","Level":"Information","MessageTemplate":"Bind with queue 20.04.2018 18:26:55"}
+{"Timestamp":"2018-04-20T18:26:55.5713183+03:00","Level":"Information","MessageTemplate":"Recived Massege is success 20.04.2018 18:26:55"}
+{"Timestamp":"2018-04-20T18:28:04.4128493+03:00","Level":"Information","MessageTemplate":"Logger is build 20.04.2018 18:28:04"}
+{"Timestamp":"2018-04-20T18:29:16.9363626+03:00","Level":"Information","MessageTemplate":"Connection is Success Build 20.04.2018 18:29:16"}
+{"Timestamp":"2018-04-20T18:29:17.9281339+03:00","Level":"Information","MessageTemplate":"Connection channel is Success 20.04.2018 18:29:17"}
+{"Timestamp":"2018-04-20T18:29:19.2880268+03:00","Level":"Information","MessageTemplate":"Bind with queue 20.04.2018 18:29:19"}
+{"Timestamp":"2018-04-20T18:29:23.1553104+03:00","Level":"Information","MessageTemplate":"Recived Massege is success 20.04.2018 18:29:23"}
+{"Timestamp":"2018-04-20T18:34:41.8461493+03:00","Level":"Information","MessageTemplate":"Logger is build 20.04.2018 18:34:41"}
+{"Timestamp":"2018-04-20T18:34:41.9945613+03:00","Level":"Information","MessageTemplate":"Connection is Success Build 20.04.2018 18:34:41"}
+{"Timestamp":"2018-04-20T18:34:42.0023178+03:00","Level":"Information","MessageTemplate":"Connection channel is Success 20.04.2018 18:34:42"}
+{"Timestamp":"2018-04-20T18:34:42.0095501+03:00","Level":"Information","MessageTemplate":"Bind with queue 20.04.2018 18:34:42"}
+{"Timestamp":"2018-04-20T18:34:42.0189991+03:00","Level":"Information","MessageTemplate":"Recived Massege is success 20.04.2018 18:34:42"}

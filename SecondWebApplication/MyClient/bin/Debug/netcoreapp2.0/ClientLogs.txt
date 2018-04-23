@@ -1,0 +1,2 @@
+{"Timestamp":"2018-04-20T19:23:54.0903876+03:00","Level":"Information","MessageTemplate":"Message is recived"}
+{"Timestamp":"2018-04-20T19:36:26.9219573+03:00","Level":"Information","MessageTemplate":"Message is recived"}
